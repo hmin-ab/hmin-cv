@@ -1,43 +1,45 @@
-name: John Doe
+name: Hyangsuk Min
 support_dark_mode: true
-fork: true
+fork: false
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
+  email: hyangsukmin503@gmail.com
+  github: hmin0503
+  linkedin: hyangsukmin
   phone: 
   gitlab: 
   twitter: 
 
 languages:
+  - idiom: Korean
   - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: Spanish
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: MSc in Data Science
+    time: 2020-2022
+    university: Korea Advanced Institute of Science and Technology (KAIST)
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: BSc in Bigdata Analysis and Statistics
+    time: 2015-2019
+    university: Kookmin University
 
 skills:
-  - category: Backend
+  - category: Data Analytics
     skill: 
-      - Go
-      - Rust
-  - category: Frontend
+      - R
+      - Tableau
+      - Python
+  - category: AI/ML
     skill:
-      - React
-      - Typescript
-  - category: DevOps
-    skill:
-      - Docker
-      - Kubernetes 
+      - Python
+      - TensorFlow
+      - Pytorch
+#   - category: DevOps
+#     skill:
+#       - Docker
+#       - Kubernetes 
 
 # Profile
 profile: |
@@ -49,9 +51,9 @@ profile: |
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Hardware Engineer
+    time: 2018-2019
+    company: Uniquify, SanJose, CA
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
@@ -59,39 +61,39 @@ experience:
       Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
       fugiat nulla pariatur.
     technologies_used: | 
-      Go, Angular, Typescript, C++
+      Innovus, tcl, shell script, linux, perl
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+#   - role: Researcher
+#     time: 2016-2020
+#     company: Microsoft
+#     details: |
+#       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+#       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+#       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+#       Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+#       fugiat nulla pariatur.
+#     technologies_used: | 
+#       Python, Tensorflow, Keras, Matlab
 
 publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
+  - title: COVID-EENet: Predicting Fine-Grained Impact of COVID-19 on Local Economies.
+    link: "https://ojs.aaai.org/index.php/AAAI/article/view/21455"
+    authors: Kim, D., **Min, H.**, Nam, Y., Song, H., Yoon, S., Kim, M., and Lee, J.
+    conference: AAAI, 2022
 
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+  - title: Hi-COVIDNet: Deep Learning Approach to Predict Inbound COVID-19 Patients and Case Study in South Korea.
+    link: "https://dl.acm.org/doi/abs/10.1145/3394486.3412864"
+    authors: Kim, M., Kang, J., Kim, D., Song, H., **Min, H**., Nam, Y., Park, D., and Lee, J.
+    conference: KDD, 2022
 
 projects:
-  - title: Cool Project 
+  - title: Music Recommendation System 
     link: #
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua.
 
-  - title: Cool Project 
+  - title: General Trajectory Representation Learning
     link: #
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
@@ -99,10 +101,8 @@ projects:
 
 # Volunteering
 volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
+  - time: 2020.08-2020.12
+    role: Korean Teaching Partner, Language Partner Program
+    company: KAIST Language Center
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Helped an undergraduate student from Nepal to be familiar with speaking and writing Korean once a week.  
