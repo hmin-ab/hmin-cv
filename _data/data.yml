@@ -76,12 +76,12 @@ experience:
 #       Python, Tensorflow, Keras, Matlab
 
 publications:
-  - title: COVID-EENet: Predicting Fine-Grained Impact of COVID-19 on Local Economies.
+  - title: "COVID-EENet: Predicting Fine-Grained Impact of COVID-19 on Local Economies."
     link: "https://ojs.aaai.org/index.php/AAAI/article/view/21455"
     authors: Kim, D., **Min, H.**, Nam, Y., Song, H., Yoon, S., Kim, M., and Lee, J.
     conference: AAAI, 2022
 
-  - title: Hi-COVIDNet: Deep Learning Approach to Predict Inbound COVID-19 Patients and Case Study in South Korea.
+  - title: "Hi-COVIDNet: Deep Learning Approach to Predict Inbound COVID-19 Patients and Case Study in South Korea."
     link: "https://dl.acm.org/doi/abs/10.1145/3394486.3412864"
     authors: Kim, M., Kang, J., Kim, D., Song, H., **Min, H**., Nam, Y., Park, D., and Lee, J.
     conference: KDD, 2022
